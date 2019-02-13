@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Promoter</string>
+    <string name="app_name_short">Pr</string>
+    <string name="failed_interstitial">Не получилось загрузить объявление, проверьте своё подключение</string>
+    <string name="join">Участвовать</string>
+    <string name="how_to_title">Как мне принять участие в сегодняшнем розыгрыше?</string>
+    <string name="how_to_body">1. Нажмите \"Участвовать\"\n2. Нажмите на фотографию победителя\n3. Удачи!</string>
+    <string name="what_if_title">Что если я не победил?</string>
+    <string name="what_if_body">Нажмите на фотографию победителя и удачи завтра!</string>
+    <string name="made_by">Сделал @kartomin</string>
+    <string name="not_affiliated">Это приложение не является продуктом команды Instagram™</string>
+    <string name="edit_profile">Изменить</string>
+    <string name="sign_out">Выйти</string>
+    <string name="signed_in_as">Вы вошли как</string>
+    <string name="instagram_profile">Профиль в Instagram</string>
+    <string name="win_probability">Шанс на победу</string>
+    <string name="not_participating">Сначала нажмите на фотографию победителя!</string>
+    <string name="increase">Повысить</string>
+    <string name="successfully_signed">Вы успешно вошли!</string>
+    <string name="sign_in_failed_internet">Не удалось войти :( Нет подключения к интернету</string>
+    <string name="sign_in_failed_unknown">Не удалось войти :( Неизвестная ошибка</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="now_you_participate">Теперь вы участвуете в завтрашнем розыгрыше!</string>
+    <string name="specify_photo">Выберите фотографию, которую вы хотите продвинуть!</string>
+    <string name="rewarded_ad_not_loaded">Вознаграждаемое объявление не загрузилось, попробуйте позднее!</string>
+    <string name="profile_name">Имя в Instagram</string>
+    <string name="load_photos">Подтвердить</string>
+    <string name="click_on_photo">Нажмите на фото, которое вы хотите продвинуть!</string>
+    <string name="close">Закрыть</string>
+    <string name="yes">Да</string>
+    <string name="confirmation_dialog_text">Вы уверены?</string>
+    <string name="cancel">Отмена</string>
+    <string name="rewarded_video">Посмотреть видео</string>
+    <string name="rewarded_video_description">+1х за каждый просмотр!</string>
+    <string name="invite_friends">Промо код</string>
+    <string name="invite_friends_description">+5х за каждого пользователя, который введёт ваш промокод при регистрации!</string>
+    <string name="invite_title">Выберите несколько контактов</string>
+    <string name="invite_message">Бесплатное продвижение профиля Instagram!</string>
+    <string name="invitation_cta">Стать популярным</string>
+    <string name="read_more">Узнать больше</string>
+    <string name="watch_video">Смотреть видео</string>
+    <string name="share_code">Поделиться</string>
+</resources>

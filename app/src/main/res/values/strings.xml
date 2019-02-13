@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Promoter</string>
+    <string name="app_name_short">Pr</string>
+
+    <string name="failed_interstitial">Failed to load ad, check your internet connection</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-1294193105518981/1424868052</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-1294193105518981/4614138174</string>
+
+    <!--Main Activity-->
+    <string name="join">Join</string>
+    <string name="how_to_title">What do I need to participate today?</string>
+    <string name="how_to_body">1. Tap \"Join\"\n2. Tap on a winner\'s photo\n3. Good Luck!</string>
+    <string name="what_if_title">What if I didn\'t win?</string>
+    <string name="what_if_body">Visit today\'s winner profile and have a better luck tomorrow!</string>
+    <string name="made_by">Made by @kartomin</string>
+    <string name="not_affiliated">This app is not affiliated with Instagram™</string>
+    <string name="edit_profile">Edit</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_in_as">Signed in as</string>
+    <string name="instagram_profile">Instagram profile</string>
+    <string name="win_probability">Chance to win</string>
+    <string name="not_participating">Tap on a winner\'s photo first!</string>
+    <string name="increase">Increase</string>
+    <string name="successfully_signed">Successfully signed in!</string>
+    <string name="sign_in_failed_internet">Failed to sign in :( No internet connection</string>
+    <string name="sign_in_failed_unknown">Failed to sign in :( Unknown error</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="now_you_participate">Now you are participating tomorrow\'s raffle!</string>
+    <string name="specify_photo">Edit your profile and specify photo you want to promote!</string>
+    <string name="rewarded_ad_not_loaded">Sorry, rewarded ad didn\'t load, try again later!</string>
+    <string name="invitation_cta">Become popular</string>
+
+    <!--Settings Activity-->
+    <string name="profile_name">Instagram name</string>
+    <string name="load_photos">Confirm</string>
+    <string name="click_on_photo">Tap on a photo you want to be shown if you get promoted!</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="confirmation_dialog_text">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+
+    <!--Increase Dialog-->
+    <string name="read_more">Read more</string>
+    <string name="watch_video">Watch video</string>
+    <string name="share_code">Share code</string>
+    <string name="rewarded_video">Rewarded video</string>
+    <string name="rewarded_video_description">Get +1x for every video</string>
+    <string name="invite_friends">Promo code</string>
+    <string name="invite_friends_description">Get +5x for each user who enters your promo code during registration!</string>
+    <string name="invite_title">Choose some contacts</string>
+    <string name="invite_message">Promote your Instagram profile for free!</string>
+    <string name="invite_error" translatable="false">Sorry we were unable to serve invitations for some reason :(</string>
+</resources>
